@@ -259,6 +259,8 @@ a img {
         position: absolute
     }
 
+    .video {display: none;}
+
     .navbar2 {
         display: block;
         width: 100%;
@@ -346,6 +348,8 @@ a img {
         display: none;
         position: absolute
     }
+
+    .video {display: none;}
 
     .navbar2 {
         display: block;

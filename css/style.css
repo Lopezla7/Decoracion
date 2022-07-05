@@ -259,7 +259,8 @@ a img {
         position: absolute
     }
 
-    .video {display: none;
+    .video {
+        display: none;
     }
 
     .navbar2 {
@@ -350,7 +351,8 @@ a img {
         position: absolute
     }
 
-    .video {display: none;
+    .video {
+        display: none;
     }
 
     .navbar2 {
